@@ -25,3 +25,14 @@ The project successfully applied FEM in structural dynamics, offering valuable i
 * **Structural Optimization:** A primary goal was achieved by proposing a structural modification that reduced the maximum static deflection by over **50%** with an acceptable increase in mass. This was accomplished by strategically stiffening the structure's V-shaped support, demonstrating the effectiveness of targeted structural modifications based on a thorough understanding of the system’s behavior.
 
 In summary, this assignment showcased the comprehensive application of FEM for performance prediction and design optimization in complex structural systems.
+
+## Tools Employed
+
+* [cite_start]**MATLAB:** Used for all FE modeling, matrix assembly, modal analysis, time integration (solving the second-order differential equation using the `ode45` solver [cite: 460]), and result visualization.
+* [cite_start]**AutoCAD:** Used for initial geometric definition and node coordinate extraction to define the input file[cite: 121, 122].
+
+---
+
+## Intended Audience
+
+[cite_start]This repository is a practical reference for **Students of Structural Dynamics and FEM**, demonstrating the complete workflow from model discretization and modal analysis to complex time-domain simulation and structural optimization based on performance criteria[cite: 646]. It is also useful for engineers interested in **Finite Element Modeling of Beam Structures** and **Modal Superposition** methods.
