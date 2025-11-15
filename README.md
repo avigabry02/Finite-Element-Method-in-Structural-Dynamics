@@ -28,11 +28,11 @@ In summary, this assignment showcased the comprehensive application of FEM for p
 
 ## Tools Employed
 
-* [cite_start]**MATLAB:** Used for all FE modeling, matrix assembly, modal analysis, time integration (solving the second-order differential equation using the `ode45` solver [cite: 460]), and result visualization.
-* [cite_start]**AutoCAD:** Used for initial geometric definition and node coordinate extraction to define the input file[cite: 121, 122].
+* **MATLAB:** Used for all FE modeling, matrix assembly, modal analysis, time integration (solving the second-order differential equation using the `ode45` solver), and result visualization.
+* **AutoCAD:** Used for initial geometric definition and node coordinate extraction to define the input file.
 
 ---
 
 ## Intended Audience
 
-[cite_start]This repository is a practical reference for **Students of Structural Dynamics and FEM**, demonstrating the complete workflow from model discretization and modal analysis to complex time-domain simulation and structural optimization based on performance criteria[cite: 646]. It is also useful for engineers interested in **Finite Element Modeling of Beam Structures** and **Modal Superposition** methods.
+This repository is a practical reference for **Students of Structural Dynamics and FEM**, demonstrating the complete workflow from model discretization and modal analysis to complex time-domain simulation and structural optimization based on performance criteria. It is also useful for engineers interested in **Finite Element Modeling of Beam Structures** and **Modal Superposition** methods.
